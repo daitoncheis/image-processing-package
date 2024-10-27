@@ -1,4 +1,11 @@
-# Pacote de Processamento de Imagens em Python
+# Projeto DIO: Gerenciador de Controle de Tarefas em Python
+
+**Autor:** Dáiton Cheis dos Santos da Silva  
+**Disponível em:** [https://pypi.org/project/task-manager-python/](https://pypi.org/project/task-manager-python/)  
+
+Descomplicando o desenvolvimento de ferramentas de gerenciamento de tarefas em Python.
+
+## Descrição do Pacote
 
 O pacote **`task_manager`** é utilizado para:
 
@@ -13,24 +20,3 @@ O pacote **`task_manager`** é utilizado para:
 - Salvar lista de tarefas;
 - Exibir resumo de tarefas;
 - Exportar relatório de tarefas;
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
-
-```bash
-pip install image_processing
-```
-
-## Usage
-
-```python
-from package_name.module1_name import package_name
-package_name.my_function()
-```
-
-## Author
-Dáiton
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
