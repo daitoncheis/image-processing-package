@@ -1,36 +1,29 @@
-# Pacote de Processamento de Imagens em Python
+# Projeto DIO: Pacote de Processamento de Imagens em Python
 
-O pacote **`task_manager`** é utilizado para:
+### Autora: Karina Kato
+### Disponível em: https://pypi.org/project/wallet-python-pacotes-imagens/
+### Repositório de exemplos do template: https://github.com/tiemi/
 
-### Módulo "TaskManagement"
-- Adicionar tarefas;
-- Remover tarefas;
-- Atualizar status de tarefas;
-- Filtrar tarefas por prioridade;
+---
 
-### Módulo "Utils"
-- Carregar lista de tarefas;
-- Salvar lista de tarefas;
-- Exibir resumo de tarefas;
-- Exportar relatório de tarefas;
+## Descomplicando a criação de pacotes de processamento de imagens em Python
 
-## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
+### O pacote "image_processing" é usado para:
 
-```bash
-pip install image_processing
-```
+Módulo "Processing":
+- Correspondência de histograma;
+- Similaridade estrutural;
+- Redimensionar imagem;
 
-## Usage
+Módulo "Utils":
+- Ler imagem;
+- Salvar imagem;
+- Plotar imagem;
+- Plotar gráfico;
+- Plotar histograma;
 
-```python
-from package_name.module1_name import package_name
-package_name.my_function()
-```
 
-## Author
-Dáiton
+### Resultado do processamento:
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+<p align="left"><img src="./ex_img.jpg" width="800"></p>
