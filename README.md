@@ -1,18 +1,18 @@
 # Pacote de Processamento de Imagens em Python
 
-## Módulo "TaskManagement":
+O pacote **`task_manager`** é utilizado para:
 
-Adicionar tarefas;
-Remover tarefas;
-Atualizar status de tarefas;
-Filtrar tarefas por prioridade;
+### Módulo "TaskManagement"
+- Adicionar tarefas;
+- Remover tarefas;
+- Atualizar status de tarefas;
+- Filtrar tarefas por prioridade;
 
-## Módulo "Utils":
-
-Carregar lista de tarefas;
-Salvar lista de tarefas;
-Exibir resumo de tarefas;
-Exportar relatório de tarefas;
+### Módulo "Utils"
+- Carregar lista de tarefas;
+- Salvar lista de tarefas;
+- Exibir resumo de tarefas;
+- Exportar relatório de tarefas;
 
 ## Installation
 
