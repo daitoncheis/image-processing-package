@@ -2,7 +2,6 @@
 
 **Autor:** Dáiton Cheis dos Santos da Silva  
 **Disponível em:** [https://pypi.org/project/task-manager-python/](https://pypi.org/project/task-manager-python/)  
-**Repositório de exemplos do template:** [https://github.com/daitoncs/](https://github.com/daitoncs/)  
 
 Descomplicando o desenvolvimento de ferramentas de gerenciamento de tarefas em Python.
 
