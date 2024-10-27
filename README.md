@@ -1,8 +1,6 @@
 # Projeto DIO: Gerenciador de Controle de Tarefas em Python
 
 **Autor:** Dáiton Cheis dos Santos da Silva  
-**Disponível em:** [https://pypi.org/project/task-manager-python/](https://pypi.org/project/task-manager-python/)  
-
 Descomplicando o desenvolvimento de ferramentas de gerenciamento de tarefas em Python.
 
 ## Descrição do Pacote
