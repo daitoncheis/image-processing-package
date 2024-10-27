@@ -19,14 +19,14 @@ O pacote **`task_manager`** é utilizado para:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
 
 ```bash
-pip install package_name
+pip install image_processing
 ```
 
 ## Usage
 
 ```python
-from package_name.module1_name import image_processing
-image_processing.my_function()
+from package_name.module1_name import package_name
+package_name.my_function()
 ```
 
 ## Author
