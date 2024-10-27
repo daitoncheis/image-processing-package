@@ -1,6 +1,6 @@
 # Projeto DIO: Pacote de Processamento de Imagens em Python
 
-### Autora: Karina Kato
+### Autor: Dáiton Cheis
 ### Disponível em: https://pypi.org/project/wallet-python-pacotes-imagens/
 ### Repositório de exemplos do template: https://github.com/tiemi/
 
@@ -23,7 +23,3 @@ Módulo "Utils":
 - Plotar gráfico;
 - Plotar histograma;
 
-
-### Resultado do processamento:
-
-<p align="left"><img src="./ex_img.jpg" width="800"></p>
