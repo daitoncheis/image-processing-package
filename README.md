@@ -1,13 +1,22 @@
-# package_name
+# Pacote de Processamento de Imagens em Python
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+## Módulo "TaskManagement":
+
+Adicionar tarefas;
+Remover tarefas;
+Atualizar status de tarefas;
+Filtrar tarefas por prioridade;
+
+## Módulo "Utils":
+
+Carregar lista de tarefas;
+Salvar lista de tarefas;
+Exibir resumo de tarefas;
+Exportar relatório de tarefas;
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
 
 ```bash
 pip install package_name
@@ -16,12 +25,12 @@ pip install package_name
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
+from package_name.module1_name import image_processing
+image_processing.my_function()
 ```
 
 ## Author
-My_name
+Dáiton
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
